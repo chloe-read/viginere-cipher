@@ -4,4 +4,5 @@ I was wanting a simple project on a night when I couldn't sleep, just to keep my
 
 ## how to run
   cd ~/path/to/file
+
   ./ViginereCipherInator
